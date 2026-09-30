@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">"Do not build for today. Build for tomorrow"</h3>
 <p align="left">
 </p>
 
