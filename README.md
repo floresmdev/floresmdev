@@ -1,15 +1,11 @@
 <h1 align="center">Hi, I'm Alex</h1>
 <h3 align="center">I'm a Web Developer passionate about Linux Systems and Cybersecurity, currently studying for the CCNA cert and developing apps.</h3>
 
-- 🔭 I’m currently working on **a task manager app for game devs**
-
-- 🌱 I’m currently learning **Applied AI**
-
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 🤝 I’m looking for help with **learning cybersecurity**
-
-- 💬 Ask me about **Linux**
+- I’m currently working on **a task manager app for game devs**
+- I’m currently learning **Applied AI**
+- I’m looking to collaborate on **open source projects**
+- I’m looking for help with **learning cybersecurity**
+- Ask me about **Linux**
 
 <h3 align="left">"Do not build for today. Build for tomorrow"</h3>
 <p align="left">
